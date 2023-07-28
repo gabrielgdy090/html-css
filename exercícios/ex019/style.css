@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/*
+Em Html é id -- Em CSS é #
+Em Html é Class -- em CSS é .
+*/
+
+body{
+    background-color: 
+    #8CCCEE;
+    ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: rgb(15, 93, 124);
+}
+
+#principal{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #1F506B;
+
+}
+
+h2{
+    color: #358AB8;
+}
+.basico{
+    color: green;
+    font-weight: bold;
+}
+.intermediario{
+    color: yellow;
+}
+.avancado{
+    color: red;
+}
